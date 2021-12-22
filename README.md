@@ -1,6 +1,6 @@
 ### Hi, I'm Tommy.Hu. 👋
 
-<html><table style="margin-left: auto; margin-right: auto; border: none;"><tr><td style="border: none;">
+<html><table style="margin-left: auto; margin-right: auto;"><tr><td style="border: none;">
 
 ![Tommy.Hu's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freedomdebug&show_icons=true&theme=radical&count_private=true&show_icons=true)
                 
