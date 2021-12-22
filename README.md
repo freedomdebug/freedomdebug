@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![freedomdebug's github stats](https://github-readme-stats.vercel.app/api?username=freedomdebug&theme=radical) 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=freedomdebug&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedomdebug&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedomdebug&hide_border=true&theme=radical
 <!--
 **freedomdebug/freedomdebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
