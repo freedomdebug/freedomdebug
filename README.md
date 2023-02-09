@@ -10,9 +10,7 @@
 
 </td></tr>
 <tr><td colspan="2">
-  
-![Tommy.Hu's contribution graph](https://activity-graph.herokuapp.com/graph?username=freedomdebug&theme=redical)  
-  
+
 </td></tr></table></html>
 
 
